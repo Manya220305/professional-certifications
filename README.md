@@ -1,2 +1,3 @@
-# professional-certifications
-Industry certifications and credentials.
+# Professional Certifications
+
+- Nutanix Certified Associate (NCA) – 2026
